@@ -125,3 +125,8 @@
     text-align: center;
     background: #ddd;
   }
+ @media screen and (max-width: 700px) {
+    .proj {   
+      flex-direction: column;
+    }
+  }
